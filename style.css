@@ -1,0 +1,48 @@
+body{
+	margin:0px;
+	padding:0px;
+	background-image: url('https://c.tenor.com/WLYH411BgV8AAAAC/pink.gif');
+	background-repeat:no-repeat;
+	background-size:cover;
+}
+
+
+
+#nav {
+	background-color:pink;
+	padding-top:10px;
+	
+	
+	display:flex;
+	flex-direction:row;
+	justify-content:space-evenly;
+	align-items:center;
+}
+#navbar{
+	margin-left:50px;
+}
+h4 { 
+	margin-left:10px;
+} 
+a {
+	margin-left:20px;
+	
+} 
+
+.opt {
+	
+	color:red;
+	transition:0.5s;
+	
+}
+
+.opt:hover {
+	
+	color:pink;
+	background-color:red;
+	padding:5px;
+	border-radius:3px;
+	
+	
+}
+
