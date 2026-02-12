@@ -1,12 +1,28 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+body {
+  background-color: lightblue;
+}
 
-	header{
-		text-align:center;
-		color:maroon;
-		background-color:pink;
-		border:black solid 5px;
-		border-radius:5px;
-		border: 1px solid;
-		padding: 300px;
-		padding-right: 300px;
-		box-shadow: 50px 50px;
-		
+h1 {
+  color: white;
+  text-align: center;
+}
+
+p {
+  font-family: verdana;
+  font-size: 20px;
+}
+</style>
+</head>
+<body>
+
+<h1>My First CSS Example</h1>
+<p>This is a paragraph.</p>
+
+</body>
+</html>
+
+
